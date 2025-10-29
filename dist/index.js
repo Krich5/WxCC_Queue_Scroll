@@ -205,7 +205,7 @@
             display:flex;
             padding: 0;
             margin: 0;
-            height:50%;
+            height:100%;
             width:max-content;
             animation: none;
             align-items:center;
