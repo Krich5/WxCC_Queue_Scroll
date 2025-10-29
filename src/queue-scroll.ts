@@ -163,7 +163,7 @@ render() {
     <div class="marquee-container">
       <ul
         class="marquee"
-        style="font-size:6px; animation-duration:${this.queueStats.length * 20}s"
+        style="font-size:6px"
       >
         ${this.queueStats}
         ${this.queueStats}
