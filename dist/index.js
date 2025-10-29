@@ -207,7 +207,8 @@
             margin: 0;
             height:100%;
             width:max-content;
-            animation: none;
+            animation: scroll linear infinite;
+            animation-duration: 10s;
             align-items:center;
             }
             .marquee li {
@@ -216,7 +217,7 @@
             align-items:center;
             justify-content:center;
             flex-shrink:0;
-            font-size:1rem;
+            font-size:2rem;
             white-space:nowrap;
             padding: 0 1rem 0 1rem;
             }
