@@ -205,10 +205,9 @@
             display:flex;
             padding: 0;
             margin: 0;
-            height:100%;
+            height:50%;
             width:max-content;
             animation: none;
-            animation-duration: 10s;
             align-items:center;
             }
             .marquee li {
@@ -217,7 +216,7 @@
             align-items:center;
             justify-content:center;
             flex-shrink:0;
-            font-size:2rem;
+            font-size:1rem;
             white-space:nowrap;
             padding: 0 1rem 0 1rem;
             }
