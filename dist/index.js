@@ -89,7 +89,7 @@
 
     button {
       border-radius: 8px;
-      border: 0px solid transparent;
+      border: none;
       padding: 0.6em 1.2em;
       font-size: 1em;
       font-weight: 500;
