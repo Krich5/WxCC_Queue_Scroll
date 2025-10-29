@@ -163,7 +163,7 @@ render() {
     <div class="marquee-container">
       <ul
         class="marquee"
-        style="font-size:6px"
+        style="font-size:8px"
       >
         ${this.queueStats}
         ${this.queueStats}
