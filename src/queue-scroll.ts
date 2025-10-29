@@ -22,7 +22,7 @@ export class QueueScroll extends LitElement {
             height: 20px; /* Set a fixed height for the container */
             overflow: hidden; 
             border:none;
-            border-radius:0px;
+            border-radius:90px;
             }
 
             .marquee {
