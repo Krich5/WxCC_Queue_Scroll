@@ -207,7 +207,7 @@
             margin: 0;
             height:100%;
             width:max-content;
-            animation: scroll linear infinite;
+            animation: none;
             animation-duration: 10s;
             align-items:center;
             }
