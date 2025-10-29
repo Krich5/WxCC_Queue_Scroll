@@ -32,8 +32,7 @@ export class QueueScroll extends LitElement {
             margin: 0;
             height:100%;
             width:max-content;
-            animation: scroll linear infinite;
-            animation-duration: 10s;
+            animation: nonee;
             align-items:center;
             }
             .marquee li {
@@ -164,7 +163,7 @@ render() {
     <div class="marquee-container">
       <ul
         class="marquee"
-        style="font-size:8px; animation-duration:${this.queueStats.length * 20}s"
+        style="font-size:6px; animation-duration:${this.queueStats.length * 20}s"
       >
         ${this.queueStats}
         ${this.queueStats}
